@@ -18,3 +18,4 @@ url-normalize==1.4.3
 urllib3==2.2.1
 
 prettytable~=3.10.0
+SQLAlchemy~=2.0.30
